@@ -1,4 +1,4 @@
-# python
+# Python Basics
 This repository contains basic Python programs and practice codes created while learning Python programming.
 
 📚 Topics Covered
@@ -17,7 +17,7 @@ This repository contains basic Python programs and practice codes created while 
 - Object-Oriented Programming Basics
 
 
-🚀 Purpose
+## Purpose
 
 The purpose of this repository is to:
 
@@ -26,5 +26,8 @@ The purpose of this repository is to:
 - Build a strong programming foundation
 - Keep all beginner Python codes organized
 
-🛠️ Requirements
+## Requirements
 Python 3.14
+
+## Note
+This repository is mainly for learning and practice purposes.
